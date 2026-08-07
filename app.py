@@ -290,7 +290,7 @@ save_evaluation(
 )
 
 st.success("✅ Evaluation saved successfully.")
-            st.dataframe(
+st.dataframe(
                 summary,
                 use_container_width=True,
                 hide_index=True
