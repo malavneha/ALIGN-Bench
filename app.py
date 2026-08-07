@@ -251,16 +251,12 @@ elif page == "📝 Evaluate":
 
             st.divider()
 
-            st.subheader("Recommendation")
-            st.info(
-    recommendation(result)
-)
+                        st.subheader("Recommendation")
+            st.info(recommendation(result))
 
-st.divider()
+            st.divider()
 
-st.subheader("Evaluation Summary")
-
-
+            st.subheader("Evaluation Summary")
 
             summary = pd.DataFrame(
                 {
@@ -268,32 +264,30 @@ st.subheader("Evaluation Summary")
                         "AI Model",
                         "Category",
                         "Question",
-                        "Evaluation"
+                        "Evaluation",
                     ],
                     "Value": [
                         model,
                         category,
                         question,
-                        result
-                    ]
+                        result,
+                    ],
                 }
             )
-            # ------------------------------------
-# SAVE RESULT
-# ------------------------------------
 
-save_evaluation(
-    model,
-    category,
-    question,
-    result
-)
+            save_evaluation(
+                model,
+                category,
+                question,
+                result,
+            )
 
-st.success("✅ Evaluation saved successfully.")
-st.dataframe(
+            st.success("✅ Evaluation saved successfully.")
+
+            st.dataframe(
                 summary,
                 use_container_width=True,
-                hide_index=True
+                hide_index=True,
             )
 # -------------------------------------------------
 # DASHBOARD
