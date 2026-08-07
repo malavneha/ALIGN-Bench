@@ -1,4 +1,10 @@
-from metrics import get_dashboard_metrics
+
+from utils import (
+    load_benchmark,
+    save_evaluation,
+    load_results,
+    create_project_folders
+)from metrics import get_dashboard_metrics
 import streamlit as st
 import pandas as pd
 import plotly.express as px
@@ -37,7 +43,9 @@ def load_dataset():
     return pd.read_csv(DATA_PATH)
 
 
-benchmark = load_dataset()
+create_project_folders()
+
+benchmark = load_benchmark()
 
 
 # -------------------------------------------------
@@ -271,38 +279,14 @@ st.info(
 # SAVE RESULT
 # ------------------------------------
 
-save_row = pd.DataFrame(
-    {
-        "Timestamp": [datetime.now()],
-        "Model": [model],
-        "Category": [category],
-        "Question": [question],
-        "Evaluation": [result]
-    }
+save_evaluation(
+    model,
+    category,
+    question,
+    result
 )
 
-os.makedirs("results", exist_ok=True)
-
-result_file = "results/evaluation_results.csv"
-
-if os.path.exists(result_file):
-
-    save_row.to_csv(
-        result_file,
-        mode="a",
-        header=False,
-        index=False
-    )
-
-else:
-
-    save_row.to_csv(
-        result_file,
-        index=False
-    )
-
 st.success("✅ Evaluation saved successfully.")
-
             st.dataframe(
                 summary,
                 use_container_width=True,
@@ -326,7 +310,7 @@ elif page == "📊 Dashboard":
 
     else:
 
-        results = pd.read_csv(result_file)
+results = load_results()
 
         col1, col2, col3 = st.columns(3)
 
