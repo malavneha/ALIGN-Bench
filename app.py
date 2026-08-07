@@ -1,3 +1,4 @@
+from metrics import get_dashboard_metrics
 import streamlit as st
 import pandas as pd
 import plotly.express as px
@@ -330,22 +331,45 @@ elif page == "📊 Dashboard":
         col1, col2, col3 = st.columns(3)
 
         with col1:
-            st.metric(
-                "Total Evaluations",
-                len(results)
-            )
+            metrics = get_dashboard_metrics(results)
 
-        with col2:
-            st.metric(
-                "Models Tested",
-                results["Model"].nunique()
-            )
+col1, col2, col3 = st.columns(3)
 
-        with col3:
-            st.metric(
-                "Categories",
-                results["Category"].nunique()
-            )
+with col1:
+    metrics = get_dashboard_metrics(results)
+
+col1, col2, col3 = st.columns(3)
+
+with col1:
+    st.metric(
+        "Total Evaluations",
+        metrics["total"]
+    )
+
+with col2:
+    st.metric(
+        "Models Tested",
+        metrics["models"]
+    )
+
+with col3:
+    st.metric(
+        "Categories",
+        metrics["categories"]
+    )
+    col4, col5 = st.columns(2)
+
+with col4:
+    st.metric(
+        "Clarification Rate",
+        f'{metrics["clarification_rate"]}%'
+    )
+
+with col5:
+    st.metric(
+        "Assumption Rate",
+        f'{metrics["assumption_rate"]}%'
+    )
 
         st.divider()
 
