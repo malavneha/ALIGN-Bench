@@ -66,3 +66,8 @@ streamlit run app.py
 - Complete ALIGN-Bench release
 - Research paper
 - Public benchmark
+## 📸 Demo
+
+![Home](images/home.png)
+
+![Dashboard](images/dashboard.png)
