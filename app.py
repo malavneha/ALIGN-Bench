@@ -21,8 +21,6 @@ st.set_page_config(
     layout="wide"
 )
 
-create_project_folders()
-
 benchmark = load_benchmark()
 
 # -------------------------------------------------
