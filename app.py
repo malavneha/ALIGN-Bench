@@ -4,9 +4,8 @@ import plotly.express as px
 from datetime import datetime
 from pathlib import Path
 
-from evaluator import evaluate_response
+from evaluator import evaluate_response, recommendation
 import os
-
 
 # -------------------------------------------------
 # PAGE CONFIGURATION
@@ -244,30 +243,9 @@ elif page == "📝 Evaluate":
 
             st.subheader("Recommendation")
 
-            if result == "🟢 Clarified":
-
-                st.success(
-                    "Excellent. The model requested additional information before answering."
-                )
-
-            elif result == "🟡 Assumed":
-
-                st.warning(
-                    "The model answered without requesting the missing information. It should ask a clarifying question first."
-                )
-
-            elif result == "🔴 Possible Hallucination":
-
-                st.error(
-                    "The response may contain unsupported or fabricated information. Manual review is recommended."
-                )
-
-            else:
-
-                st.info(
-                    "The model appropriately acknowledged uncertainty or multiple perspectives."
-                )
-
+st.info(
+    recommendation(result)
+)
             st.divider()
 
             st.subheader("Evaluation Summary")
