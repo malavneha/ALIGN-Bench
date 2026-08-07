@@ -4,95 +4,138 @@
 
 ![License](https://img.shields.io/badge/License-LGPL-green)
 
-# 🧠 ALIGN-Bench
+# 🧠ALIGN-Bench
 
-### An Open Benchmark for Evaluating Clarification Behavior in Large Language Models
-
-A lightweight research benchmark for evaluating how language models handle ambiguous, context-dependent, and safety-critical user queries.
-
-## ✨ Features
-
-- 📊 Interactive Streamlit dashboard
-- 🧠 AI response evaluation
-- 📁 Structured benchmark dataset
-- 📈 Performance metrics
-- ⚠️ Failure mode analysis
-- 💾 CSV result storage
-- 🔬 Research-oriented evaluation framework
-- ALIGN-Bench/
-
-├── app.py
-├── evaluator.py
-├── benchmark.csv
-├── requirements.txt
-├── README.md
-├── LICENSE
-
-├── data/
-├── docs/
-├── images/
-├── paper/
-└── results/
-## 📸 Demo
-
-![Home](images/home.png)
-
-![Dashboard](images/dashboard.png)
-## 🎯 Research Motivation
-
-Large language models frequently encounter ambiguous user queries.
-
-This benchmark evaluates whether language models recognize ambiguity and request clarification instead of making unsupported assumptions.
-## 📂 Benchmark Categories
-
-- Temporal Ambiguity
-- Location Ambiguity
-- Context Ambiguity
-- Safety-Critical Queries
-- Medical Queries
-- Subjective Questions
-- Conversational Memory
-- Emotional Intelligence
-## 🚀 Future Work
-
-- Multi-model evaluation
-- Automatic scoring engine
-- Leaderboard
-- Public benchmark release
-- Hugging Face dataset
-
-## 🚀 Installation
-
-```bash
-git clone https://github.com/YOUR_USERNAME/ALIGN-Bench.git
-
-cd ALIGN-Bench
-
-pip install -r requirements.txt
-
-streamlit run app.py
-
-
+An interactive benchmarking application for evaluating AI responses on common AI alignment scenarios. ALIGN-Bench helps identify whether an AI system appropriately handles ambiguous prompts, requests clarification when needed, and follows alignment-oriented behavior.
 
 ---
 
+## 🚀 Live Demo
 
-### Version 0.1
-- Initial benchmark dataset
-- Basic Streamlit app
-- Manual evaluation
+👉 https://YOUR-STREAMLIT-APP.streamlit.app
 
-### Version 0.2
-- Category filtering
-- AI model selection
-- CSV result storage
+---
 
-### Version 0.3
-- Rule-based evaluation engine
-- Dashboard
-- Charts
+## 📌 Features
 
-### Version 1.0
-- Complete ALIGN-Bench release
-- Research paper
-- Public benchmark
+- Evaluate AI responses across multiple benchmark categories
+- Detect common alignment behaviors
+- Generate recommendations for improving AI responses
+- Save evaluation history automatically
+- Simple and interactive Streamlit interface
+- Lightweight and easy to extend
+
+---
+
+## 🛠️ Technologies Used
+
+- Python
+- Streamlit
+- Pandas
+- GitHub
+- Streamlit Cloud
+
+---
+
+## 📸 Application Screenshots
+
+### 🏠 Home Page
+
+![Home Page](images/home%20page.jpg)
+
+---
+
+### 📋 Navigation Menu
+
+![Navigation Menu](images/navigation%20menu.jpg)
+
+---
+
+### 🤖 AI Response Evaluation Form
+
+![Evaluation Form](images/ai%20response%20evaluation%20form.jpg)
+
+---
+
+### ✅ Evaluation Result
+
+![Evaluation Result](images/evaluation%20result.jpg)
+
+---
+
+### 📊 Evaluation History
+
+![Evaluation History](images/evaluationhistory.jpg)
+
+---
+
+## 📂 Project Structure
+
+```text
+ALIGN-Bench/
+│
+├── app.py
+├── utils.py
+├── requirements.txt
+├── README.md
+│
+├── data/
+│   └── benchmark.csv
+│
+├── results/
+│   └── evaluation_results.csv
+│
+└── images/
+    ├── home page.jpg
+    ├── navigation menu.jpg
+    ├── ai response evaluation form.jpg
+    ├── evaluation result.jpg
+    └── evaluationhistory.jpg
+```
+
+---
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/ALIGN-Bench.git
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run the application:
+
+```bash
+streamlit run app.py
+```
+
+---
+
+## 🎯 Purpose
+
+This project demonstrates how AI responses can be evaluated against alignment-oriented expectations, particularly for ambiguous prompts, contextual understanding, and safe reasoning behavior.
+
+---
+
+## 📈 Future Improvements
+
+- Support additional AI models
+- More benchmark datasets
+- Export evaluation reports (PDF/CSV)
+- Analytics dashboard
+- User authentication
+- Leaderboard for benchmark scores
+
+---
+
+## 👩‍💻 Author
+
+**Dr Neha Malav**
+linkdin:https://www.linkedin.com/in/dr-neha-malav-743a25332?utm_source=share_via&utm_content=profile&utm_medium=member_android
+GitHub: https://github.com/malavneha
