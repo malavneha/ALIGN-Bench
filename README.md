@@ -33,17 +33,6 @@ A lightweight research benchmark for evaluating how language models handle ambig
 ├── images/
 ├── paper/
 └── results/
-## 🚀 Installation
-
-```bash
-git clone https://github.com/YOUR_USERNAME/ALIGN-Bench.git
-
-cd ALIGN-Bench
-
-pip install -r requirements.txt
-
-streamlit run app.py
-
 ## 📸 Demo
 
 ![Home](images/home.png)
@@ -71,6 +60,18 @@ This benchmark evaluates whether language models recognize ambiguity and request
 - Leaderboard
 - Public benchmark release
 - Hugging Face dataset
+
+## 🚀 Installation
+
+```bash
+git clone https://github.com/YOUR_USERNAME/ALIGN-Bench.git
+
+cd ALIGN-Bench
+
+pip install -r requirements.txt
+
+streamlit run app.py
+
 
 
 ---
