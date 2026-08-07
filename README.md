@@ -1,5 +1,47 @@
-# ALIGN-Bench-Open-Benchmark-for-Evaluating-Clarification-Behavior-in-Large-Language-Models
-## Project Roadmap
+
+
+# 🧠 ALIGN-Bench
+
+### An Open Benchmark for Evaluating Clarification Behavior in Large Language Models
+
+A lightweight research benchmark for evaluating how language models handle ambiguous, context-dependent, and safety-critical user queries.
+
+## ✨ Features
+
+- 📊 Interactive Streamlit dashboard
+- 🧠 AI response evaluation
+- 📁 Structured benchmark dataset
+- 📈 Performance metrics
+- ⚠️ Failure mode analysis
+- 💾 CSV result storage
+- 🔬 Research-oriented evaluation framework
+- ALIGN-Bench/
+
+├── app.py
+├── evaluator.py
+├── benchmark.csv
+├── requirements.txt
+├── README.md
+├── LICENSE
+
+├── data/
+├── docs/
+├── images/
+├── paper/
+└── results/
+## 🚀 Installation
+
+```bash
+git clone https://github.com/YOUR_USERNAME/ALIGN-Bench.git
+
+cd ALIGN-Bench
+
+pip install -r requirements.txt
+
+streamlit run app.py
+
+---
+
 
 ### Version 0.1
 - Initial benchmark dataset
