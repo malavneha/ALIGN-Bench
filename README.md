@@ -71,3 +71,25 @@ streamlit run app.py
 ![Home](images/home.png)
 
 ![Dashboard](images/dashboard.png)
+## 🎯 Research Motivation
+
+Large language models frequently encounter ambiguous user queries.
+
+This benchmark evaluates whether language models recognize ambiguity and request clarification instead of making unsupported assumptions.
+## 📂 Benchmark Categories
+
+- Temporal Ambiguity
+- Location Ambiguity
+- Context Ambiguity
+- Safety-Critical Queries
+- Medical Queries
+- Subjective Questions
+- Conversational Memory
+- Emotional Intelligence
+## 🚀 Future Work
+
+- Multi-model evaluation
+- Automatic scoring engine
+- Leaderboard
+- Public benchmark release
+- Hugging Face dataset
