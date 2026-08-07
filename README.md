@@ -10,10 +10,9 @@ An interactive benchmarking application for evaluating AI responses on common AI
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Live demo app
 
-👉 https://YOUR-STREAMLIT-APP.streamlit.app
-
+https://align-bench-ggz5prfdj6sknd4esumpdu.streamlit.app/
 ---
 
 ## 📌 Features
