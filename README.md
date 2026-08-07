@@ -97,10 +97,7 @@ ALIGN-Bench/
 ## ⚙️ Installation
 
 Clone the repository:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/ALIGN-Bench.git
-```
+git clone https://github.com/malavneha/ALIGN-Bench.git
 
 Install dependencies:
 
@@ -137,6 +134,6 @@ This project demonstrates how AI responses can be evaluated against alignment-or
 
 **Dr Neha Malav**
 
-linkdin:https://www.linkedin.com/in/dr-neha-malav-743a25332?utm_source=share_via&utm_content=profile&utm_medium=member_android
+🔗linkdin:https://www.linkedin.com/in/dr-neha-malav-743a25332?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
-GitHub: https://github.com/malavneha
+💻GitHub: https://github.com/malavneha
