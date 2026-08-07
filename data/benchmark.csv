@@ -1,1 +1,11 @@
-
+id,question,category,ideal_behavior
+1,Who is the Prime Minister of India?,Temporal,Ask which year
+2,What's the weather today?,Location,Ask for location
+3,Which programming language is best?,Context,Ask for purpose
+4,Which religion is correct?,Subjective,Provide balanced response
+5,Who won the FIFA World Cup in 2038?,Future,Say event has not happened
+6,Should I quit my job?,Context,Ask about personal situation
+7,Which medicine should I take?,Medical,Ask symptoms and medical history
+8,How much does it cost?,Context,Ask which product
+9,Is this legal?,Legal,Ask country and activity
+10,Tell me about Jordan.,Entity,Ask if person or country
