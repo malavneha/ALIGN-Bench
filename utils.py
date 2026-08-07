@@ -24,7 +24,7 @@ import pandas as pd
 
 DATA_PATH = Path("data/benchmark.csv")
 
-RESULTS_PATH = "evaluation_results.csv"
+RESULTS_PATH = path("evaluation_results.csv")
 
 
 # -------------------------------------
