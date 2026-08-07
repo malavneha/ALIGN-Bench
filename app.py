@@ -1,18 +1,19 @@
-
-from utils import (
-    load_benchmark,
-    save_evaluation,
-    load_results,
-    create_project_folders
-)from metrics import get_dashboard_metrics
 import streamlit as st
 import pandas as pd
 import plotly.express as px
 from datetime import datetime
 from pathlib import Path
+import os
 
 from evaluator import evaluate_response, recommendation
-import os
+from metrics import get_dashboard_metrics
+
+from utils import (
+    load_benchmark,
+    load_results,
+    save_evaluation,
+    create_project_folders
+)
 
 # -------------------------------------------------
 # PAGE CONFIGURATION
