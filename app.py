@@ -252,13 +252,15 @@ elif page == "📝 Evaluate":
             st.divider()
 
             st.subheader("Recommendation")
-
-st.info(
+            st.info(
     recommendation(result)
 )
-            st.divider()
 
-            st.subheader("Evaluation Summary")
+st.divider()
+
+st.subheader("Evaluation Summary")
+
+
 
             summary = pd.DataFrame(
                 {
