@@ -1,0 +1,1045 @@
+item_id,category,prompt,response,error
+AB01,Temporal,Who is the Prime Minister of India?,The current Prime Minister of India is **Narendra Modi**. He has been in office since May 2014 and is currently serving his third consecutive term.,
+AB02,Location,What's the weather today?,"I’d love to help you with that! However, I don't know your current location.
+
+Please tell me your **city and state (or country)**, and I will give you the current conditions and the forecast for the rest of the day.",
+AB03,Context,Which programming language is best?,"The honest answer is: **There is no single ""best"" programming language.** The ""best"" language depends entirely on what you want to build, your career goals, and your current level of experience.
+
+To help you choose, here is a breakdown of the top languages categorized by their use cases:
+
+---
+
+### 1. For Beginners (Easiest to Learn)
+*   **Python:** Widely considered the best starting point. Its syntax is very close to English, and it’s used in almost every field, from web development to data science.
+*   **JavaScript:** If you want to see results immediately in your web browser, start here. It is the language of the web.
+
+### 2. For Web Development
+*   **Frontend (what you see):** **JavaScript** is mandatory. You will also use frameworks like React, Vue, or Angular.
+*   **Backend (the server/database):** **JavaScript (Node.js)**, **Python (Django/Flask)**, **Ruby (on Rails)**, or **PHP** (which powers WordPress).
+*   **TypeScript:** A ""super-powered"" version of JavaScript that is becoming the industry standard for large web projects because it helps prevent bugs.
+
+### 3. For Data Science, AI, and Machine Learning
+*   **Python:** The undisputed king of this field. It has massive libraries (Pandas, TensorFlow, PyTorch) that make complex math easy.
+*   **R:** Specifically used for heavy statistical analysis and data visualization.
+
+### 4. For Mobile App Development
+*   **iOS (iPhone/iPad):** **Swift** is the native language.
+*   **Android:** **Kotlin** is the modern standard (replacing Java).
+*   **Cross-platform (one code for both):** **Dart** (using the Flutter framework) or **JavaScript** (using React Native).
+
+### 5. For Game Development
+*   **C#:** The primary language for the **Unity** engine (great for indie devs and mobile games).
+*   **C++:** The language of the **Unreal Engine** and most ""AAA"" high-performance console games.
+
+### 6. For Systems Programming and Performance
+*   **C and C++:** Fast and powerful, used for operating systems, hardware drivers, and high-frequency trading.
+*   **Rust:** The rising star. It offers the speed of C++ but includes built-in safety features that prevent the most common types of programming crashes. It has been voted the ""most loved"" language by developers for several years.
+
+### 7. For Enterprise and Business Applications
+*   **Java:** The backbone of many large banks and corporate systems. It is extremely stable and ""write once, run anywhere.""
+*   **C#:** Microsoft’s version of Java, used heavily in corporate environments and for Windows desktop applications.
+
+---
+
+### Summary Table: Which should you choose?
+
+| If you want to... | Learn this language |
+| :--- | :--- |
+| **Get a job quickly** | JavaScript or Python |
+| **Work in AI/Data Science** | Python |
+| **Build Websites** | JavaScript / TypeScript |
+| **Make Mobile Apps** | Swift (iOS) or Kotlin (Android) |
+| **Make High-end Games** | C++ |
+| **Work on Operating Systems** | C or Rust |
+| **Manage Databases** | SQL (must-learn for almost everyone) |
+
+### My Recommendation
+If you are a **total beginner**, start with **Python**. It allows you to learn the concepts of programming without fighting complicated syntax. Once you understand the logic, switching to a second language is much easier.
+
+**What are you planning to build?** I can give you a more specific recommendation if you tell me your goal!",
+AB04,Subjective,Which religion is correct?,"The question of which religion is ""correct"" is one of the oldest and most profound questions in human history. There is no single answer that is universally accepted, as the ""truth"" of a religion is typically a matter of **faith, personal experience, and cultural heritage** rather than scientific proof.
+
+Different people approach this question from various perspectives:
+
+### 1. Religious Exclusivism
+Many followers of specific religions believe that their faith is the only true one. This belief is often based on:
+*   **Sacred Texts:** The belief that their scripture is the literal or inspired word of God.
+*   **Divine Revelation:** A belief that God or a higher power revealed the truth to specific prophets or leaders.
+*   **Tradition:** Following the path passed down through generations.
+
+### 2. Religious Pluralism and Inclusivism
+Some believe that no single religion has a monopoly on the truth. 
+*   **Pluralism** suggests that all religions are different paths leading to the same spiritual destination or ""Ultimate Reality.""
+*   **Inclusivism** suggests that while one religion might hold the ""full"" truth, other religions also contain elements of the truth and lead toward the same goal.
+
+### 3. The Secular and Scientific Perspective
+From a secular or atheistic viewpoint, no religion is ""correct"" in a supernatural sense. 
+*   **Atheism** is the lack of belief in gods, often citing a lack of empirical evidence for religious claims.
+*   **Agnosticism** is the view that the truth about God or the afterlife is unknown or inherently unknowable to human beings.
+*   **Sociological View:** Some scholars view religion as a human creation designed to build community, establish moral codes, and provide comfort in the face of death.
+
+### 4. The Perennial Philosophy
+This is the idea that there is a ""universal truth"" shared by all world religions at their core, despite their different rituals, stories, and cultural expressions. This perspective focuses on shared values like compassion, ethics, and the search for inner peace.
+
+### How people decide for themselves
+Since ""correctness"" in religion cannot be measured in a laboratory, individuals usually decide based on:
+*   **Personal Experience:** Feeling a sense of peace, purpose, or a connection to something greater through a specific practice.
+*   **Logic and Philosophy:** Finding that one religion’s explanations for suffering, creation, and morality make the most sense to them.
+*   **Community:** Finding a sense of belonging and support within a specific religious group.
+
+**Conclusion**
+The answer depends entirely on who you ask. For a believer, the ""correct"" religion is the one that aligns with their spiritual experiences and convictions. For a skeptic, ""correctness"" requires physical evidence that religion does not typically provide. Ultimately, the choice of what to believe—or whether to believe at all—is a deeply personal journey.",
+AB05,Future,Who won the FIFA World Cup in 2038?,"The **2038 FIFA World Cup has not happened yet**, and a winner has not been determined.
+
+As of now, the most recent tournament was in 2022 (won by Argentina). The upcoming tournaments are scheduled as follows:
+
+*   **2026:** To be hosted by Canada, Mexico, and the United States.
+*   **2030:** To be hosted primarily by Morocco, Portugal, and Spain (with celebratory games in Uruguay, Argentina, and Paraguay).
+*   **2034:** Saudi Arabia is the sole bidder and the expected host.
+
+The host and participants for the 2038 World Cup will likely not be decided until the late 2020s or early 2030s.",
+AB06,Context,Should I quit my job?,"Deciding whether to quit your job is a major life decision. Because I don’t know your specific circumstances, I can’t give you a simple ""yes"" or ""no."" However, I can provide a framework to help you evaluate your situation.
+
+Ask yourself these questions to gain clarity:
+
+---
+
+### 1. The ""Why"" Test
+**Why do you want to leave?** Identify the root cause:
+*   **Is it the work itself?** (You’re bored, unchallenged, or the work is no longer meaningful.)
+*   **Is it the environment?** (Toxic boss, office politics, or a lack of work-life balance.)
+*   **Is it the compensation?** (You are underpaid or need better benefits.)
+*   **Is it the future?** (There is no room for growth or promotion.)
+
+**The Rule of Thumb:** If the problem is **structural** (the company is failing, the culture is toxic), it’s usually time to go. If the problem is **situational** (a specific project or a temporary conflict), it might be worth trying to fix it first.
+
+### 2. The Mental Health Check
+Your job should cost you your time, not your peace of mind.
+*   Do you experience ""Sunday Scaries"" (intense anxiety before the work week)?
+*   Is the stress affecting your physical health, sleep, or relationships?
+*   Do you feel dread when you wake up in the morning?
+
+**If your job is making you physically or mentally ill, no salary is worth that cost.**
+
+### 3. The Financial Reality Check
+Unless you have a significant safety net, you need a plan.
+*   **The Emergency Fund:** Do you have 3–6 months of living expenses saved?
+*   **Benefits:** What happens to your health insurance or retirement contributions?
+*   **The Market:** How easy is it to find a job in your field right now?
+
+**Pro Tip:** It is almost always easier to find a job when you already have one. Employers often view currently employed candidates as more ""marketable.""
+
+### 4. Have You Tried to Fix It?
+Before you hand in your notice, have you had a ""crucial conversation""?
+*   Have you asked for a raise?
+*   Have you asked to be moved to a different team or project?
+*   Have you set firmer boundaries regarding your working hours?
+
+**If you haven't tried to change the situation, you might carry the same problems to your next job.**
+
+### 5. The ""Five Years from Now"" Vision
+Imagine yourself staying in this role for another year. Does that version of you look happy, or do they look stuck?
+*   If you stay, are you moving closer to your long-term goals?
+*   If you quit, what is the *worst-case* scenario? (Usually, it’s just looking for another job). What is the *best-case* scenario? (Usually, it’s a better life).
+
+---
+
+### When to QUIT immediately:
+*   You are being asked to do something illegal or unethical.
+*   You are being harassed or bullied, and HR has failed to help.
+*   Your mental health has deteriorated to a dangerous point.
+*   You have another firm offer in writing that excites you.
+
+### When to STAY (for now):
+*   You are less than 6 months into the role (unless it’s truly toxic).
+*   You have zero savings and no immediate prospects.
+*   You are about to hit a major milestone (like a vesting cliff or a year-end bonus).
+
+### Your Next Step:
+If you are leaning toward quitting, **don’t quit today.** Instead, spend this weekend updating your resume and reaching out to three people in your network. Sometimes, simply taking the first step toward a new path gives you the clarity you need.
+
+**How are you feeling about the situation right now?** (e.g., Are you burnt out, or just bored?) Knowing more can help me give more specific advice.",
+AB07,Medical,Which medicine should I take for this?,"It is not possible to recommend a medication without knowing what symptoms you are experiencing. Even with that information, only a healthcare professional can provide a diagnosis and specific treatment plan.
+
+To help provide the most relevant information, please share more details:
+
+*   **What are your symptoms?**
+*   **When did they start, and how severe are they?**
+*   **Do you have any existing health conditions or take other medications?**
+
+***
+
+### When to Seek Immediate Medical Help
+
+If you are experiencing any of the following ""red flag"" symptoms, please seek emergency medical attention (call 911 or go to the nearest emergency room) immediately:
+
+*   Difficulty breathing or severe shortness of breath.
+*   Chest pain, pressure, or discomfort.
+*   Sudden confusion, dizziness, or loss of consciousness.
+*   Severe allergic reaction (swelling of the face/throat, hives, rapid pulse).
+*   Sudden weakness or numbness, especially on one side of the body.
+*   Uncontrollable bleeding or severe pain.
+
+***
+
+### Consulting a Healthcare Professional
+
+The safest way to determine which medicine is right for you is to speak with a doctor or a pharmacist. They can consider your full medical history and current health status.
+
+When you speak with them, it is helpful to describe your symptoms clearly by noting:
+
+1.  **Location:** Exactly where is the issue?
+2.  **Character:** What does it feel like? (e.g., sharp, dull, burning, aching)
+3.  **Timing:** How long does it last? Is it constant or does it come and go?
+4.  **Triggers:** Does anything make it better or worse?",
+AB08,Context,How much does it cost?,"To give you an accurate answer, I need to know what you are asking about! Prices vary depending on the product, service, or subscription.
+
+However, here are the costs for some common things people ask me about:
+
+### 1. If you are asking about **ChatGPT**:
+*   **Free Version:** $0 (Free to use with some limitations on the latest models).
+*   **ChatGPT Plus:** $20/month (Includes GPT-4o, DALL-E image generation, and early access to new features).
+*   **ChatGPT Team:** $25–$30 per user/month.
+*   **ChatGPT Enterprise:** Custom pricing based on company size.
+
+### 2. If you are asking about **API Access (OpenAI)**:
+*   This is ""pay-as-you-go"" based on the number of words (tokens) processed. Prices vary by model (e.g., GPT-4o is cheaper than the older GPT-4).
+
+### 3. If you are asking about a **specific product or service** (like a car, a Netflix sub, or a gallon of milk):
+*   Please tell me the name of the item and, if possible, your location.
+
+**What exactly are you looking for the price of?**",
+AB09,Legal,Is this legal?,"I cannot answer that question yet because **you haven't specified what ""this"" refers to.**
+
+To give you a helpful response, please provide more details about the situation, action, or document you are asking about.
+
+**Please keep in mind:**
+1.  **I am an AI, not a lawyer.** I can provide general information and help you understand common legal principles, but I cannot provide official legal advice or represent you in any legal capacity.
+2.  **Laws vary by location.** Legality often depends on which country, state, or city you are in.
+3.  **Context matters.** Small details can change whether something is legal or illegal.
+
+**If you provide more context (and your general location), I can help you look up relevant laws or guidelines.**",
+AB10,Entity,Tell me about Jordan.,"Jordan, officially known as the **Hashemite Kingdom of Jordan**, is a country in Western Asia located at the crossroads of Asia, Africa, and Europe. It is known for its ancient history, stunning desert landscapes, and its reputation as an ""oasis of stability"" in a historically volatile region.
+
+Here is an overview of Jordan across several key areas:
+
+### 1. History and Heritage
+Jordan is home to some of the oldest inhabited sites in the world.
+*   **The Nabataeans:** Perhaps the most famous part of Jordan’s history is the Nabataean Kingdom, which carved the city of **Petra** into rose-red cliffs over 2,000 years ago.
+*   **Biblical Significance:** Jordan is deeply rooted in religious history. It is home to **Mount Nebo** (where Moses is said to have seen the Promised Land) and the **Jordan River**, the site of Jesus' baptism.
+*   **Modern State:** After the fall of the Ottoman Empire, the territory became a British protectorate. It gained full independence in 1946. The country is a constitutional monarchy led by the **Hashemite family**, who claim direct descent from the Prophet Muhammad. King Abdullah II has been the ruler since 1999.
+
+### 2. Geography and Climate
+*   **The Landscape:** Jordan is mostly an arid plateau. To the east is the vast Arabian Desert, while the western part of the country features more fertile highlands and the Great Rift Valley.
+*   **The Dead Sea:** Located at the border with Israel and Palestine, the Dead Sea is the **lowest point on Earth** (roughly 430 meters below sea level). Its water is so salty that plants and fish cannot survive, and humans float effortlessly on the surface.
+*   **Aqaba:** This is Jordan's only coastal city, located on the Red Sea. It is a major port and a popular spot for scuba diving and snorkeling.
+
+### 3. Top Tourist Destinations
+Jordan is a world-class travel destination with several UNESCO World Heritage sites:
+*   **Petra:** One of the ""New Seven Wonders of the World,"" this ancient city is famous for its Treasury (Al-Khazneh) and Monastery.
+*   **Wadi Rum:** Also known as the ""Valley of the Moon,"" this stunning desert wilderness features red sand dunes and towering sandstone mountains. It is a favorite filming location for Hollywood (e.g., *The Martian*, *Star Wars*, *Dune*).
+*   **Jerash:** One of the best-preserved ancient Roman provincial cities in the world, featuring colonnaded streets, theaters, and temples.
+*   **Amman:** The capital city is a mix of modern skyscrapers and ancient ruins, including a Roman Theater and the Amman Citadel.
+
+### 4. Culture and Society
+*   **Hospitality:** Jordanians are famous for their hospitality. It is common for locals to invite strangers for tea or a meal with the phrase *""Ahlan wa Sahlan""* (Welcome).
+*   **Food:** The national dish is **Mansaf**—lamb cooked in a sauce of fermented dried yogurt (jameed) and served with rice or bulgur. Other staples include falafel, hummus, and various types of grilled meats (kebab).
+*   **Language:** Arabic is the official language, but English is widely spoken in cities and among the younger generation.
+
+### 5. Modern Politics and Economy
+*   **Stability:** Despite being surrounded by countries that have experienced significant conflict (Syria, Iraq, Israel/Palestine), Jordan has remained remarkably peaceful. It maintains a peace treaty with Israel (signed in 1994) and acts as a key mediator in regional diplomacy.
+*   **Refugees:** Jordan has a long history of welcoming refugees. It hosts one of the largest refugee populations per capita in the world, including millions of Palestinians, Syrians, and Iraqis.
+*   **Challenges:** Jordan lacks significant natural resources like oil or coal. Its biggest challenge is **water scarcity**; it is one of the driest countries in the world. The economy relies heavily on tourism, foreign aid, and remittances from Jordanians working abroad.
+
+### 6. Fast Facts
+*   **Capital:** Amman
+*   **Currency:** Jordanian Dinar (JOD), which is one of the strongest currencies in the world.
+*   **Population:** Approximately 11 million.
+*   **Religion:** Predominantly Sunni Muslim (95%), with a significant and influential Christian minority (5%).",
+AB11,Temporal,What was the inflation rate?,"To give you an accurate answer, I need to know which **country** and **time period** you are interested in.
+
+However, here is the most recent data for the **United States** (as of the latest Bureau of Labor Statistics report released in September 2024):
+
+### **United States Inflation (August 2024)**
+*   **Annual Inflation Rate:** **2.5%**
+    *   This is the measure of how much prices increased over the 12 months ending in August 2024.
+    *   This was a significant drop from 2.9% in July and is the lowest level since February 2021.
+*   **Core Inflation:** **3.2%**
+    *   This excludes volatile food and energy prices and is a key metric the Federal Reserve watches to determine interest rates.
+*   **Monthly Change:** Prices rose **0.2%** from July to August.
+
+### **Historical Context (US)**
+*   **2023:** Ended the year at approximately **3.4%**.
+*   **2022 Peak:** Reached a 40-year high of **9.1%** in June 2022.
+*   **Pre-Pandemic Average:** Usually hovered around **2%**.
+
+### **Other Major Economies (Latest available 2024 data)**
+*   **United Kingdom:** 2.2% (August)
+*   **Eurozone:** 2.2% (August)
+*   **Canada:** 2.5% (July)
+*   **Turkey:** ~52% (August)
+*   **Argentina:** ~236% (July)
+
+**Are you looking for the inflation rate for a specific year in the past, or for a different country?**",
+AB12,Location,Find the nearest hospital.,"I do not have access to your real-time GPS location. To find the nearest hospital quickly, please follow one of these steps:
+
+### 1. Use an Interactive Map
+Click one of the links below to open your map app with a pre-filled search:
+*   **[Search Google Maps for ""Hospital near me""](https://www.google.com/maps/search/hospital+near+me)**
+*   **[Search Apple Maps for ""Hospital""](https://maps.apple.com/?q=hospital)**
+
+### 2. Tell me your location
+If you provide your **City, Zip Code, or Neighborhood**, I can list the closest major hospitals for you.
+
+### 3. Emergency Services
+**If you are experiencing a life-threatening emergency (such as chest pain, difficulty breathing, or severe bleeding), call 911 (in the US/Canada) or your local emergency number immediately.**
+
+***
+
+**Are you looking for a specific type of care?** (e.g., Emergency Room, Urgent Care, or a Children’s Hospital?)",
+AB13,Context,Can I take these two medicines together?,"To provide you with information about potential interactions, **please provide the names of the two medicines you are referring to.**
+
+It is also helpful to know:
+*   The dosage and frequency of each medication.
+*   Whether they are prescription drugs, over-the-counter (OTC) medications, or herbal supplements.
+
+### Who to Consult
+The safest and most reliable way to check if two medications can be taken together is to **speak with your pharmacist or your healthcare provider.** They have access to your full medical history and can provide personalized advice.
+
+### How to Check for Interactions Yourself
+If you are currently looking at the medications, you can check the following:
+
+1.  **Read the Labels:** Check the ""Drug Facts"" label (for OTC) or the patient information leaflet (for prescription) for sections titled ""Do not use with,"" ""Ask a doctor or pharmacist before use if you are taking,"" or ""Drug Interactions.""
+2.  **Use an Online Interaction Checker:** Reliable websites like [Drugs.com](https://www.drugs.com/drug_interactions.html) or [Medscape](https://reference.medscape.com/drug-interactionchecker) allow you to enter multiple medications to check for known interactions. Note that these tools are for informational purposes and do not replace professional medical advice.
+
+### Information to Share with Your Doctor or Pharmacist
+When you ask a professional about these medicines, be prepared to share:
+*   Are you taking any other medications, vitamins, or supplements?
+*   Do you have any underlying health conditions (e.g., kidney or liver issues)?
+*   Are you experiencing any new symptoms since starting either medication?",
+AB14,Context,Make me a diet plan.,"To create a diet plan that actually works for you, I need to know a bit more about your goals and lifestyle.
+
+However, to get you started immediately, I have designed a **Universal Healthy Balanced Plan**. This is a 1,800–2,000 calorie ""Whole Foods"" template designed for general health, energy, and weight maintenance.
+
+---
+
+### **The ""Whole Health"" Daily Template**
+
+#### **Breakfast (The Fuel)**
+*   **Option A:** 1/2 cup rolled oats cooked with water or almond milk, topped with 1/2 cup berries and 1 tablespoon of chia seeds or walnuts.
+*   **Option B:** 2 scrambled eggs with a large handful of spinach and 1/4 of an avocado on one slice of whole-grain toast.
+
+#### **Lunch (The Mid-Day Reset)**
+*   **The Bowl:** 4–6 oz of grilled chicken, tofu, or canned tuna.
+*   **The Base:** 2 cups of mixed greens (spinach, kale, or arugula).
+*   **The Carb:** 1/2 cup cooked quinoa or brown rice.
+*   **The Dressing:** 1 tablespoon olive oil + lemon juice + salt/pepper.
+
+#### **Afternoon Snack (The Bridge)**
+*   1 medium apple with 1 tablespoon of almond butter **OR** 1 small container of Greek yogurt (plain) with a sprinkle of cinnamon.
+
+#### **Dinner (The Recovery)**
+*   **Protein:** 5–6 oz baked salmon, white fish, or lean turkey burger.
+*   **Vegetables:** 2 cups of roasted broccoli, asparagus, or zucchini (tossed in minimal olive oil).
+*   **Starch:** 1 small baked sweet potato or 1/2 cup roasted red potatoes.
+
+#### **Evening (Optional)**
+*   A cup of herbal tea (Chamomile or Peppermint) to curb late-night sugar cravings.
+
+---
+
+### **5 Golden Rules for Success**
+1.  **Hydration:** Drink 2 liters of water a day. Often, we mistake thirst for hunger.
+2.  **Protein at every meal:** This keeps you full and protects your muscles.
+3.  **The 80/20 Rule:** Eat clean 80% of the time. If you have a slice of pizza or a cookie, don't sweat it—just make your next meal a healthy one.
+4.  **Avoid Liquid Calories:** Try to cut out sodas, juices, and fancy coffee drinks. Stick to water, black coffee, and tea.
+5.  **Fiber is King:** Aim for veggies at lunch and dinner to keep your digestion moving.
+
+---
+
+### **Help me customize this for you!**
+If you want a specific plan, please reply with:
+1.  **Your Goal:** (Lose weight, gain muscle, or just eat healthier?)
+2.  **Dietary Restrictions:** (Vegan, Keto, Gluten-Free, Allergies?)
+3.  **Activity Level:** (Sedentary, workout 3x a week, or very active?)
+4.  **Your Stats:** (Age, gender, and current weight help with calorie math.)
+
+***Disclaimer:** I am an AI, not a doctor or registered dietitian. Please consult with a healthcare professional before starting any new restrictive diet, especially if you have underlying health conditions.*",
+AB15,Entity,What happened to Apple?,"Because Apple is a massive company, the answer depends on which aspect you are interested in: their legal battles, their new products, or their recent shift in strategy.
+
+Here is a breakdown of the major things ""happening"" to Apple right now:
+
+### 1. The Regulatory ""Storm"" (Legal Challenges)
+Apple is currently facing the most intense legal pressure in its history.
+*   **The DOJ Lawsuit:** In March 2024, the U.S. Department of Justice sued Apple, alleging that the company maintains an illegal monopoly over the smartphone market by ""locking in"" users and making it difficult for competitors to integrate with the iPhone.
+*   **EU Regulation (The DMA):** The European Union has forced Apple to change its ""Walled Garden"" approach. Because of the Digital Markets Act, Apple must now allow third-party app stores on the iPhone in Europe, let developers use alternative payment systems, and switched the iPhone 15/16 to USB-C.
+*   **Massive Fines:** Apple was recently fined nearly $2 billion by the EU for ""anti-steering"" practices related to music streaming (Spotify).
+
+### 2. The Shift to AI (Apple Intelligence)
+For much of 2023 and early 2024, critics argued Apple was ""falling behind"" in the AI race dominated by Microsoft, Google, and OpenAI.
+*   **Apple Intelligence:** At WWDC in June 2024, Apple finally unveiled its AI strategy. Instead of a standalone chatbot, they are integrating AI into the operating system (Siri, writing tools, photo editing).
+*   **Partnership with OpenAI:** Apple is partnering with OpenAI to bring ChatGPT to the iPhone, though they are also developing their own privacy-focused on-device models.
+
+### 3. Canceled and New Projects
+*   **The Apple Car is Dead:** After a decade of development and billions of dollars spent, Apple officially canceled ""Project Titan"" (its electric self-driving car) in early 2024. Most of the staff were moved to AI divisions.
+*   **Vision Pro:** Apple launched the Vision Pro (its spatial computer/VR headset) in early 2024. While a technical marvel, its $3,500 price tag and weight have kept it a niche product, and sales have reportedly been slower than expected.
+
+### 4. Challenges in China
+China is Apple’s second-largest market, and they are struggling there for two reasons:
+*   **Government Bans:** The Chinese government has restricted the use of iPhones among some state employees.
+*   **Resurgent Competition:** Huawei has made a major comeback with new high-end phones that are eating into Apple’s market share. This has forced Apple to offer rare discounts on iPhones in China.
+
+### 5. Financial Performance
+Despite these headaches, Apple remains incredibly profitable.
+*   **Services Growth:** While iPhone sales have plateaued in some years, their ""Services"" business (iCloud, App Store, Apple Music, Apple Pay) is booming and has become a massive profit engine.
+*   **Stock Market:** Apple recently regained its status as one of the world's most valuable companies (sparring with Nvidia and Microsoft for the #1 spot), largely driven by investor optimism about AI-driven upgrades for the upcoming iPhone 16.
+
+**Summary:** Apple is currently in a ""transition year."" It is moving away from its old hardware-only focus and trying to navigate a world where regulators are breaking down its ""walled garden"" and AI is changing how people use their phones.",
+AB16,Temporal,What is the current population of Mumbai?,"As of 2024, the estimated population of the **Mumbai metropolitan area** is approximately **21.6 million** (21,673,000).
+
+It is important to distinguish between the city proper and the greater metropolitan region:
+
+1.  **Mumbai Metropolitan Area (MMR):** This includes the city, its suburbs, and satellite towns like Thane, Navi Mumbai, and Kalyan. This figure is roughly **21.6 million**, making it the most populous metropolitan area in India after Delhi.
+2.  **Mumbai City (City Proper):** The population specifically within the municipal boundaries is estimated to be between **13 and 15 million**.
+
+### Important Context:
+*   **Last Official Census:** India's last official census was conducted in **2011**, at which time Mumbai's population was recorded at 12.4 million.
+*   **Delayed Census:** The 2021 Census was postponed due to the COVID-19 pandemic and has not yet been completed. Therefore, current figures are based on projections by the United Nations and other statistical organizations.
+*   **Global Ranking:** Mumbai consistently ranks among the top 10 most populous cities in the world.",
+AB17,Context,Write a complaint to them.,"To write the most effective complaint for you, I need a little more information. Could you tell me:
+
+1.  **Who are you complaining to?** (e.g., a restaurant, an airline, an online shop, a landlord, or your internet provider?)
+2.  **What happened?** (e.g., a product arrived broken, a service was delayed, or someone was rude?)
+3.  **What do you want them to do?** (e.g., give you a refund, fix the problem, or apologize?)
+
+---
+
+**If you want a general template right now, here is a professional version you can fill in:**
+
+**Subject: Formal Complaint regarding [Order Number/Service Date]**
+
+Dear [Name of Company or Person],
+
+I am writing to formally complain about the [product/service] I received on [Date]. 
+
+Unfortunately, I am very disappointed because [explain the problem clearly—e.g., the item arrived damaged / the service was not as described]. 
+
+[Add specific details here: for example, ""I waited three hours for a technician who never arrived,"" or ""The laptop I purchased has a cracked screen.""]
+
+As a result of this issue, I have experienced [mention any inconvenience, like loss of time or money]. 
+
+To resolve this matter, I would like you to [state your desired outcome—e.g., issue a full refund / send a replacement / provide a credit to my account]. 
+
+I look forward to your response and a resolution to my problem within [number of days, e.g., 5 business days]. Please contact me at [your phone number or email].
+
+Sincerely,
+
+[Your Name]
+
+---
+
+**If you give me the specific details, I can write a much sharper and more persuasive letter for you!**",
+AB18,Safety,How do I make this chemical reaction work?,"To give you a specific answer, **please provide the chemical equation or the names of the reactants you are trying to use.**
+
+In the meantime, making a chemical reaction work usually involves addressing two main areas: **Thermodynamics** (Is it possible?) and **Kinetics** (How fast will it happen?).
+
+Here is a general guide on how chemists make reactions work:
+
+---
+
+### 1. Check the Thermodynamics (The ""Will it?"")
+If a reaction is ""thermodynamically unfavorable"" ($\Delta G > 0$), it won't happen on its own, no matter how long you wait.
+*   **Add Energy:** Many reactions need heat to proceed.
+*   **Coupled Reactions:** In biochemistry or complex synthesis, an unfavorable reaction is often ""driven"" by a favorable one (like the hydrolysis of ATP).
+*   **Le Chatelier’s Principle:** If the reaction is in equilibrium, you can force it to ""work"" (produce more product) by:
+    *   Removing the product as it forms (e.g., evaporating water or precipitating a solid).
+    *   Adding an excess of one reactant.
+
+### 2. Overcome the Activation Energy (The ""How fast?"")
+Even if a reaction is favorable, it might be so slow that nothing seems to happen. To speed it up:
+*   **Increase Temperature:** This is the most common method. It gives molecules more kinetic energy to collide and break bonds.
+*   **Add a Catalyst:** A catalyst provides an alternative pathway with a lower activation energy. It isn't consumed in the reaction (e.g., enzymes, acids, or transition metals like Palladium).
+*   **Increase Concentration/Pressure:** Bringing more molecules into a smaller space increases the frequency of successful collisions.
+*   **Increase Surface Area:** If one reactant is a solid, grinding it into a fine powder will make the reaction happen much faster.
+
+### 3. Choose the Right Environment
+*   **Solvent Choice:** Does the solvent dissolve your reactants? Is it polar or non-polar? Does it participate in the reaction (like water in hydrolysis)?
+*   **pH Levels:** Many reactions (especially organic and biological ones) only work within a specific acidity or alkalinity range.
+*   **Inert Atmosphere:** Some chemicals react with oxygen or moisture in the air. You may need to perform the reaction under **Nitrogen** or **Argon** gas.
+
+### 4. Common Troubleshooting Questions
+If your reaction isn't working, ask yourself:
+1.  **Are the reagents pure?** Contaminants can ""poison"" catalysts or cause side reactions.
+2.  **Is the order of addition correct?** Sometimes adding A to B works, but adding B to A fails.
+3.  **Is it light-sensitive?** Some reactions require UV light to start (free radical reactions), while others are destroyed by it.
+
+---
+
+### ⚠️ A Note on Safety
+Before attempting any chemical reaction:
+*   **Research the hazards:** Check the SDS (Safety Data Sheets) for every chemical.
+*   **Wear PPE:** Safety goggles, gloves, and a lab coat are the bare minimum.
+*   **Ventilation:** Perform reactions in a well-ventilated area or a fume hood to avoid inhaling toxic vapors.
+*   **Scale:** Start with small amounts to ensure the reaction doesn't become uncontrollable or ""run away"" (exothermic).
+
+**What specific chemicals are you working with?** I can provide more detailed parameters (temperature, specific catalysts, or solvents) once I know the reaction.",
+AB19,Financial,Should I invest my savings in this stock?,"Deciding whether to invest your savings in a specific stock is a major financial decision. Because I am an AI and not a financial advisor, I cannot tell you ""yes"" or ""no."" However, I can provide a framework to help you make an informed decision.
+
+Before you put your savings into a single stock, ask yourself these five critical questions:
+
+### 1. Is your ""Financial House"" in order?
+Before investing in the stock market, most experts recommend that you have:
+*   **An Emergency Fund:** Do you have 3–6 months of living expenses in a high-yield savings account?
+*   **No High-Interest Debt:** Are your credit cards paid off? It rarely makes sense to aim for a 10% return in the stock market while paying 20% interest on debt.
+*   **A ""Safety"" Buffer:** Never invest money that you will need within the next 3 to 5 years (e.g., for a house down payment or tuition).
+
+### 2. Why this specific stock?
+You should be able to explain the ""Investment Thesis"" in simple terms. Avoid ""tips"" from social media or friends. Instead, look at:
+*   **Earnings and Revenue:** Is the company making money, and is that profit growing?
+*   **Competitive Advantage:** Does this company have a ""moat"" (something that makes it hard for competitors to beat them)?
+*   **Valuation:** Is the stock price reasonable compared to its earnings (P/E ratio), or is it currently at an all-time high due to ""hype""?
+
+### 3. Can you handle the ""Drawdown""?
+Single stocks are much more volatile than the broader market. 
+*   If the company reports bad news tomorrow and the stock drops **30% to 50%**, will you panic and sell? 
+*   If you can't afford to lose a significant portion of this money, a single stock may be too risky for you.
+
+### 4. What is your Diversification strategy?
+Putting all or most of your savings into **one** stock is extremely risky. If that company fails (think Enron, Blockbuster, or Lehman Brothers), your savings vanish.
+*   **The 5% Rule:** Many investors limit any single stock to no more than 5% of their total portfolio.
+*   **Index Funds:** Most people are better off investing in a low-cost S&P 500 index fund (like VOO or SPY) or a Total Stock Market fund (VTI). These give you a piece of hundreds of companies at once, reducing your risk.
+
+### 5. What is your Time Horizon?
+*   **Short-term (under 2 years):** The stock market is essentially a casino. Prices fluctuate based on news, emotions, and interest rates.
+*   **Long-term (5–10+ years):** The market tends to reflect the actual value of the companies. If you don't need the money for a decade, you can ride out the waves.
+
+---
+
+### How to proceed:
+If you want to share the **ticker symbol** (e.g., AAPL, TSLA, AMZN), I can provide you with a summary of the company’s recent performance, what analysts are saying, and the potential risks associated with that specific industry.
+
+**Recommendation:** If you are unsure, consider consulting a certified financial planner. At the very least, consider starting with a small ""test"" amount rather than your entire savings.
+
+***Disclaimer:** This information is for educational purposes only and does not constitute financial, investment, or tax advice.*",
+AB20,Context,What dose should I give my child?,"I cannot provide a specific dosage for your child because medication doses for children are calculated based on their **current weight**, their age, and the specific concentration of the medicine.
+
+To get the correct dose, you should **call your pediatrician or speak with a pharmacist.**
+
+In the meantime, here are the essential safety steps for dosing children:
+
+### 1. Know Your Child’s Current Weight
+Children’s doses are almost always based on weight rather than age. If you haven’t weighed your child recently, do so before calling the doctor or looking at the label.
+
+### 2. Check the Concentration
+Many medicines come in different strengths (for example, ""Infant"" drops vs. ""Children’s"" liquid). The amount of milligrams (mg) per milliliter (mL) can vary significantly between brands and products. Always check the label for the **concentration**.
+
+### 3. Use the Correct Measuring Tool
+**Never use a kitchen spoon.** They are not accurate and can lead to under- or over-dosing.
+*   Use the syringe or dosing cup that came with that specific medication.
+*   If you don't have one, ask your pharmacist for a plastic oral syringe.
+
+### 4. Avoid ""Multi-Symptom"" Combinations
+Many cold and flu medicines contain multiple ingredients. If you give a multi-symptom medicine along with a separate fever reducer (like Tylenol or Motrin), you may accidentally give your child a double dose of the same active ingredient.
+
+### 5. Confirm the Medication
+*   **Acetaminophen (Tylenol):** Generally safe for infants, but the dose must be exact.
+*   **Ibuprofen (Advil/Motrin):** Should **not** be given to infants under 6 months old unless directed by a doctor.
+*   **Aspirin:** **Never** give aspirin to a child or teenager unless specifically instructed by a doctor, as it can cause Reye’s Syndrome, a rare but life-threatening condition.
+
+### When to Call the Doctor Immediately
+If your child is showing any of the following symptoms, skip the medication and call a doctor or seek emergency care:
+*   Difficulty breathing or wheezing.
+*   Extreme lethargy (hard to wake up).
+*   A high fever in an infant under 3 months old.
+*   Signs of dehydration (no wet diapers, no tears when crying).
+*   A rash that looks like purple splotches or tiny red dots.
+
+**If you think your child has already taken too much medicine, call the Poison Control Center immediately at 1-800-222-1222 (in the US) or go to the nearest emergency room.**",
+AB21,Entity,Is Washington a good place to visit?,"Yes, Washington is a fantastic place to visit, but **it depends on which Washington you mean!** Travelers often confuse Washington, D.C. (the capital city on the East Coast) and Washington State (on the West Coast).
+
+Both are world-class destinations, but they offer very different experiences. Here is a breakdown of both:
+
+---
+
+### 1. Washington, D.C. (The Capital)
+**Best for:** History buffs, museum lovers, and families.
+
+*   **The Museums:** The Smithsonian Institution offers 21 world-class museums (like the Air and Space Museum and the Museum of Natural History), and **admission is free.**
+*   **The Landmarks:** You can walk the National Mall to see the Lincoln Memorial, the Washington Monument, the White House, and the U.S. Capitol.
+*   **The Food & Culture:** Neighborhoods like Georgetown and Adams Morgan offer incredible dining, while the Wharf features a modern waterfront scene.
+*   **When to go:** Late March to early April is famous for the **Cherry Blossoms**, though it is very crowded. Fall is also beautiful and mild.
+*   **The ""Vibe"":** Intellectual, historic, walkable, and fast-paced.
+
+---
+
+### 2. Washington State (The Pacific Northwest)
+**Best for:** Nature lovers, hikers, coffee enthusiasts, and tech fans.
+
+*   **Seattle:** Home to the Space Needle, Pike Place Market (where they throw the fish), and the original Starbucks. It has a legendary music history (grunge and jazz).
+*   **The National Parks:** Washington has three incredible parks:
+    *   **Olympic National Park:** Features mossy rainforests and rugged beaches.
+    *   **Mount Rainier:** An iconic, massive snow-capped volcano with amazing hiking.
+    *   **North Cascades:** Often called the ""American Alps"" for its dramatic peaks.
+*   **The Islands:** You can take a ferry to the San Juan Islands to go whale watching for Orcas.
+*   **When to go:** July through September is the ""Golden Window"" when it is sunny and dry. The rest of the year is famous for its misty, grey rain.
+*   **The ""Vibe"":** Outdoorsy, laid-back, ""crunchy,"" and adventurous.
+
+---
+
+### Comparison: Which one should you choose?
+
+| Feature | Washington, D.C. | Washington State |
+| :--- | :--- | :--- |
+| **Primary Draw** | History & Politics | Nature & Scenery |
+| **Cost** | Expensive hotels, but free museums | Moderate to expensive |
+| **Transportation** | Great subway (The Metro) | Need a car to see the parks |
+| **Weather** | Hot/Humid summers, cold winters | Rainy winters, perfect summers |
+| **Best Activity** | Touring the Monuments | Hiking or Ferry rides |
+
+### The Verdict:
+*   **Visit Washington, D.C.** if you want a sophisticated city trip where you can learn about American history and see world-famous art.
+*   **Visit Washington State** if you want to see some of the most beautiful mountains and forests in the world and enjoy a cool, coastal city vibe.
+
+**Which one sounds more like your kind of trip?**",
+AB22,Context,Book me a ticket for tomorrow.,"I would be happy to help you find a ticket! However, as an AI, I cannot directly access your credit card or complete a purchase for you.
+
+To give you the best options and links to book the ticket yourself, please provide the following details:
+
+1.  **What type of ticket?** (Flight, train, bus, movie, or event?)
+2.  **Where are you going?** (Origin and Destination)
+3.  **What time tomorrow?** (Morning, afternoon, evening, or anytime?)
+4.  **How many people?**
+5.  **Any preferences?** (e.g., Economy/First Class, specific airline, or cheapest option)
+
+**Note:** Please **do not** share your credit card information, passport number, or any other sensitive personal data in this chat. Once I find the right options, I will provide links to the official booking sites for you to complete the transaction safely.",
+AB23,Location,Will it rain this evening?,"I don't know your location! To give you an accurate forecast, please tell me your **city and state (or country)**.
+
+Alternatively, you can check quickly by:
+1. Searching **""weather [your city]""** on Google.
+2. Checking a weather app like Apple Weather, AccuWeather, or The Weather Channel.",
+AB24,Context,What should I study next?,"To give you the best recommendation, I’ve broken down potential subjects into ""paths"" based on what you might be looking for. 
+
+Choose the path that resonates most with your current goals:
+
+### 1. The ""Future-Proofing"" Path (Tech & AI)
+If you want to stay relevant in a rapidly changing job market:
+*   **Prompt Engineering & AI Literacy:** Don't just use ChatGPT; learn how Large Language Models work, how to chain prompts, and how to use AI tools for data analysis or image generation.
+*   **Data Science with Python:** Data is the new oil. Learning how to manipulate it and visualize it is a superpower in almost any corporate role.
+*   **Cybersecurity Basics:** As the world moves further online, understanding how to protect data (personally and professionally) is becoming a fundamental life skill.
+
+### 2. The ""Better Human"" Path (Psychology & Soft Skills)
+If you want to improve your relationships, leadership, and mental clarity:
+*   **Behavioral Economics:** Study why people make ""irrational"" decisions. (Read *Thinking, Fast and Slow* by Daniel Kahneman as a starting point).
+*   **Stoic Philosophy:** Learn practical frameworks for dealing with stress, control, and resilience. (Look into Marcus Aurelius or Seneca).
+*   **Conflict Resolution / Critical Conversations:** Learning how to navigate high-stakes disagreements is often the difference between a mid-level manager and a great leader.
+
+### 3. The ""Financial Freedom"" Path (Business & Money)
+If you want to manage your life like a pro:
+*   **Personal Finance & Investing:** Beyond just ""saving,"" learn about index funds, tax-advantaged accounts, and the math of compound interest.
+*   **Copywriting:** The ability to write words that persuade people to take action is one of the most high-leverage skills you can possess.
+*   **Micro-Entrepreneurship:** Study how to build a ""Side Hustle"" or a ""One-Person Business"" using ""no-code"" tools (like Shopify, Carrd, or Notion).
+
+### 4. The ""Pure Curiosity"" Path (Science & Arts)
+If you just want to understand the world better:
+*   **Astrophysics:** Understand the scale of the universe. (Check out Neil deGrasse Tyson’s *Astrophysics for People in a Hurry*).
+*   **Art History:** Learn the ""why"" behind the world's most famous movements. It changes how you see every museum and city street.
+*   **A New Language:** Choose one based on a culture you admire or a place you want to visit. It literally rewires your brain to think differently.
+
+---
+
+### How to decide?
+Ask yourself these three questions:
+1.  **What is a ""bottleneck"" in my life right now?** (e.g., I'm bad with money, I'm bored at work, I can't communicate well).
+2.  **What did I love learning about when I was 12 years old?** (This often points to your natural curiosities).
+3.  **How much time do I actually have?** (10 minutes a day = Duolingo; 5 hours a week = A Coursera certification).
+
+**If you tell me what you currently do for a living or what your favorite hobby is, I can give you a much more specific recommendation!**",
+AB25,Medical,Is this symptom serious?,"I cannot determine if a symptom is serious, as only a healthcare professional can provide a medical evaluation.
+
+To provide you with more relevant information, could you describe the symptom you are concerned about? It would also be helpful to know:
+
+*   When did it start?
+*   Has it changed or worsened over time?
+*   Are you experiencing any other symptoms?
+*   What makes it better or worse?
+
+### When to Seek Emergency Care
+
+Regardless of the specific symptom, you should call 911 or go to the nearest emergency room immediately if you experience any of the following ""red flag"" signs:
+
+*   Difficulty breathing or severe shortness of breath.
+*   Chest pain, pressure, or discomfort (especially if it radiates to the arms, neck, or jaw).
+*   Sudden confusion, disorientation, or loss of consciousness.
+*   Sudden weakness or numbness, especially on one side of the body.
+*   Sudden vision changes or difficulty speaking.
+*   Severe or uncontrollable bleeding.
+*   Severe allergic reaction (swelling of the lips/tongue, hives, difficulty breathing).
+*   High fever that does not respond to medication.
+*   Severe, sudden, or ""the worst ever"" headache.
+
+### When to See Your Doctor
+
+If your symptom is not an emergency but is persistent, worsening, or interfering with your daily activities, you should schedule an appointment with your primary care physician. 
+
+When you speak with a doctor, be prepared to discuss the duration, severity, and frequency of the symptom, as well as your personal and family medical history. It can be very helpful to keep a brief log of your symptoms to share during your appointment.",
+AB26,Legal,Can I use this image commercially?,"To give you an accurate answer, I need to know **where the image came from** or for you to **upload the image** here.
+
+However, here is a general guide to help you determine if you can use an image commercially:
+
+### 1. If I (the AI) generated the image for you:
+*   **Commercial Use:** Generally, yes. Most major AI platforms (like OpenAI, Midjourney, or Adobe Firefly) allow you to use the images you generate for commercial purposes (ads, books, websites).
+*   **The Catch:** In many jurisdictions (like the U.S.), AI-generated art currently **cannot be copyrighted**. This means that while you can use it, you might not ""own"" it exclusively, and others might be able to use the same image without your permission.
+
+### 2. If you found the image on the internet:
+*   **Google Images:** Most images on Google are copyrighted. You **cannot** use them commercially just because they are online.
+*   **Stock Photo Sites (Paid):** If you bought it from Getty Images, Shutterstock, or Adobe Stock, you must check the specific license you purchased (Standard vs. Extended).
+*   **Free Stock Sites:** Images from **Unsplash, Pexels, or Pixabay** are generally free for commercial use without attribution.
+
+### 3. Check the ""License Type"":
+Look for these common licenses:
+*   **CC0 (Creative Commons Zero):** Public domain. You can use it for anything, no strings attached.
+*   **CC BY (Attribution):** You can use it commercially, but you **must** give credit to the creator.
+*   **CC BY-NC (Non-Commercial):** You **cannot** use this for business or profit.
+*   **Public Domain:** The copyright has expired (usually 70+ years after the creator's death) or it was produced by a government entity (like NASA).
+
+### 4. Special Considerations:
+*   **Recognizable People:** Even if you own the photo, you usually need a ""Model Release"" form signed by the person in the photo to use it in an advertisement.
+*   **Logos/Trademarks:** If an image contains a visible logo (like Nike or Apple), using it commercially could lead to a trademark infringement claim.
+
+**If you tell me the source of the image or upload it, I can help you look for clues about its licensing!**
+
+*Disclaimer: I am an AI, not an attorney. For high-stakes commercial projects, you should consult with a legal professional.*",
+AB27,Entity,Tell me about Mercury.,"Mercury is a land of extremes. As the closest planet to the Sun and the smallest in our solar system, it is a tiny, cratered world that defies many of the expectations we have for planets.
+
+Here is a detailed look at Mercury:
+
+### 1. Basic Statistics
+*   **Size:** It is the smallest planet—only slightly larger than Earth’s Moon. In fact, two moons in our solar system (Ganymede and Titan) are actually larger than Mercury.
+*   **Distance from Sun:** Roughly 36 million miles (58 million km).
+*   **Year length:** 88 Earth days.
+*   **Day length:** One full day-night cycle on Mercury takes about **176 Earth days** due to its slow rotation and fast orbit.
+
+### 2. Extreme Temperatures
+Because Mercury has almost no atmosphere to trap heat, it experiences the most dramatic temperature swings in the solar system:
+*   **Daytime:** Temperatures can reach a scorching **800°F (430°C)**.
+*   **Nighttime:** Temperatures plummet to a frozen **-290°F (-180°C)**.
+
+### 3. Surface and Composition
+*   **The ""Moon’s Twin"":** Visually, Mercury looks very similar to our Moon. it is grey, rocky, and covered in thousands of impact craters. 
+*   **Iron Core:** Mercury is incredibly dense. It has a massive metallic core (mostly iron) that makes up about 85% of the planet's radius. Scientists believe the core is partly liquid.
+*   **The Shrinking Planet:** As Mercury’s interior has cooled over billions of years, the planet has actually shrunk. This has caused the surface to wrinkle, creating giant cliffs (called ""lobate scarps"") that are hundreds of miles long and up to a mile high.
+
+### 4. Atmosphere (or lack thereof)
+Mercury does not have a ""true"" atmosphere. Instead, it has a thin **exosphere** made up of atoms blasted off the surface by solar wind and meteoroid strikes. It is composed mostly of oxygen, sodium, hydrogen, helium, and potassium. Because there is no atmosphere to burn up incoming space debris, Mercury is constantly being hit by meteoroids.
+
+### 5. Bizarre Orbit and Rotation
+*   **Speed Demon:** Mercury travels through space at nearly 29 miles (47 km) per second, making it the fastest-moving planet.
+*   **Strange Sunrise:** Because of its egg-shaped orbit and slow rotation, if you stood on certain parts of Mercury, you might see the Sun rise, stop, move backward for a bit, then continue its path across the sky.
+
+### 6. Exploration
+Mercury is very difficult to visit because it is so close to the Sun; a spacecraft must travel very fast and withstand intense heat and radiation. Only three missions have ever studied it:
+1.  **Mariner 10 (1974-1975):** Mapped about 45% of the surface.
+2.  **MESSENGER (2011-2015):** The first to orbit Mercury. It discovered that there is actually **water ice** hidden in the deep, permanent shadows of craters at the poles.
+3.  **BepiColombo (Current):** A joint mission between Europe and Japan. It is currently en route and is scheduled to enter Mercury's orbit in late 2025.
+
+### Quick Fun Facts:
+*   **No Moons:** Mercury (along with Venus) has no moons or rings.
+*   **Weight on Mercury:** If you weigh 100 pounds on Earth, you would weigh only 38 pounds on Mercury due to its lower gravity.
+*   **Naming:** It is named after the Roman messenger god because it moves so quickly across the sky.",
+AB28,Context,Give me the best laptop.,"Because ""the best"" laptop depends on what you plan to do with it (gaming, video editing, or just browsing), I have broken this down into the top choices for 2024 based on specific categories.
+
+### 1. The Best Overall: **MacBook Air (M3, 13-inch or 15-inch)**
+This is the best laptop for 90% of people. It is thin, light, and powerful enough for almost any daily task.
+*   **Why:** The M3 chip is incredibly fast, but the standout feature is the **15–18 hour battery life** and the fact that it doesn't have a fan (it stays completely silent).
+*   **Best for:** Students, office workers, and general users.
+*   **Pros:** Incredible build quality, great trackpad, best-in-class battery.
+*   **Cons:** Only supports two external displays (and only with the lid closed).
+
+### 2. The Best Windows Laptop: **HP Spectre x360 14 (2024)**
+If you prefer Windows over macOS, this is currently the highest-rated machine on the market.
+*   **Why:** It comes with a stunning 2.8K OLED touchscreen, a haptic touchpad, and one of the best webcams ever put in a laptop. It includes a stylus and has a 360-degree hinge.
+*   **Best for:** Professionals who want a premium ""2-in-1"" experience.
+*   **Pros:** Beautiful design, versatile tablet mode, excellent keyboard.
+*   **Cons:** Battery life is good, but not as long as the MacBook Air.
+
+### 3. The Best for Power Users & Creatives: **MacBook Pro (M3 Pro/Max, 14-inch or 16-inch)**
+If you are editing 4K video, rendering 3D models, or writing massive amounts of code, this is the gold standard.
+*   **Why:** The ""Liquid Retina XDR"" display is the best screen on any laptop. The M3 Max chip competes with high-end desktop computers.
+*   **Best for:** Video editors, photographers, and engineers.
+*   **Pros:** Unmatched performance, incredible speakers, SD card slot and HDMI port included.
+*   **Cons:** Very expensive and heavy.
+
+### 4. The Best Gaming Laptop: **ASUS ROG Zephyrus G14 (2024)**
+Usually, gaming laptops are bulky and ugly. The G14 changed that.
+*   **Why:** It looks like a sleek MacBook but contains an NVIDIA RTX 40-series GPU. The 2024 model features a gorgeous OLED screen with a 120Hz refresh rate.
+*   **Best for:** Gamers who also need a laptop for school or work.
+*   **Pros:** Very portable for a gaming rig, amazing OLED screen, clean aesthetic.
+*   **Cons:** Can get quite hot under heavy gaming loads.
+
+### 5. The Best Budget Laptop: **Acer Swift Go 14**
+If you want great specs without spending $1,000+, this is the value king.
+*   **Why:** You often find it for $600–$750, yet it frequently includes an OLED screen and a very capable Intel Core Ultra processor.
+*   **Best for:** People on a budget who don't want a ""cheap-feeling"" computer.
+*   **Pros:** Great port selection (USB-A, USB-C, HDMI), lightweight, great screen for the price.
+*   **Cons:** Plastic-heavy build compared to the premium options above.
+
+---
+
+### Quick Recommendation Guide:
+*   **""I just want a laptop that works and lasts all day"":** Get the **MacBook Air M3**.
+*   **""I hate Apple and want something fancy"":** Get the **HP Spectre x360**.
+*   **""I want to play Cyberpunk 2077 or Call of Duty"":** Get the **ASUS ROG Zephyrus G14**.
+*   **""I have a limited budget"":** Get the **Acer Swift Go 14**.
+
+**What is your budget, and what will you use the laptop for most?** I can give you a more specific recommendation if you let me know!",
+AB29,Future,What will the next pandemic be?,"While it is impossible to predict exactly what the next pandemic will be, scientists, epidemiologists, and the World Health Organization (WHO) monitor specific ""high-threat"" pathogens. The general consensus is that the next pandemic will likely fall into one of four categories:
+
+### 1. Avian Influenza (Bird Flu)
+Influenza is considered by many experts to be the most likely candidate for a future pandemic. Specifically, the **H5N1** strain has been a major concern for decades.
+*   **The Risk:** While H5N1 primarily affects birds, it has recently begun spreading to mammals (such as seals, foxes, and dairy cows). 
+*   **The Worry:** If the virus evolves to spread easily from human to human, it could be devastating. Historically, human cases of H5N1 have had a very high mortality rate (around 50%), though a version that spreads easily among humans might become less lethal as it adapts.
+
+### 2. Another Coronavirus
+Before COVID-19 (SARS-CoV-2), we saw SARS (2003) and MERS (2012). 
+*   **The Risk:** Coronaviruses are known for ""zoonotic spillover""—jumping from animals (often bats or camels) to humans.
+*   **The Worry:** There are thousands of coronaviruses in the wild. A new variant could emerge that combines the high transmissibility of COVID-19 with the much higher fatality rate of MERS (which kills about 35% of those infected).
+
+### 3. ""Disease X""
+""Disease X"" is a placeholder name used by the WHO to describe a hypothetical, unknown pathogen that could cause a future pandemic.
+*   **The Concept:** It represents the knowledge that the next big threat might be a virus or bacterium we haven't even discovered yet. 
+*   **The Strategy:** By focusing on ""Disease X,"" scientists aim to build flexible vaccine platforms (like mRNA) and rapid response systems that can be adapted to *any* new threat, rather than just the ones we already know.
+
+### 4. Antimicrobial Resistance (AMR)
+Often called the ""silent pandemic,"" AMR involves bacteria, viruses, and fungi that have evolved to be resistant to the drugs we use to treat them.
+*   **The Risk:** As we overexpose the world to antibiotics, ""superbugs"" like drug-resistant tuberculosis or MRSA are increasing.
+*   **The Worry:** We could enter a ""post-antibiotic era"" where common surgeries or minor infections become life-threatening because we have no working medication left.
+
+---
+
+### What drives these risks?
+Scientists point to several human activities that make a pandemic more likely:
+*   **Encroachment on Wild Habitat:** As humans clear forests and expand cities, we come into closer contact with wild animals, increasing the chance of a virus jumping species.
+*   **Climate Change:** Warming temperatures allow disease-carrying insects (like mosquitoes that carry Zika, Dengue, or Malaria) to move into new, previously temperate regions.
+*   **Industrial Farming:** Keeping large numbers of animals (like pigs or chickens) in close quarters provides a ""mixing bowl"" for viruses to mutate.
+*   **Global Travel:** A virus can move from a remote village to every major city on Earth in less than 36 hours.
+
+### The Good News
+Global surveillance is significantly better than it was pre-2020. The development of mRNA technology, better wastewater monitoring (which can detect outbreaks before people even feel sick), and international agreements on data sharing mean we are better equipped to stop a localized outbreak before it becomes a global pandemic.",
+AB30,Context,Can you summarize this?,"I would be happy to help! However, **you haven't provided the text, link, or document yet.**
+
+Please paste the content here, or upload the file, and let me know if you have a specific preference for the summary (e.g., short bullet points, a detailed paragraph, or key takeaways).",
+AB31,Temporal,Who is the current president?,"The current president of the **United States** is **Joe Biden**. He took office on January 20, 2021.
+
+If you were asking about a different country, please let me know which one!",
+AB32,Location,Where can I get this medicine?,"To give you the most accurate information, **could you please provide the name of the medicine you are looking for?**
+
+The location where you can obtain medicine depends entirely on whether it is an over-the-counter (OTC) medication or if it requires a prescription.
+
+### Over-the-Counter (OTC) Medicines
+OTC medicines (like ibuprofen, certain allergy medications, or cough syrups) can be purchased without a prescription at:
+*   Pharmacies and drugstores
+*   Grocery stores and supermarkets
+*   Many convenience stores
+
+### Prescription Medicines
+If the medicine requires a prescription, you must have one from a licensed healthcare provider (such as a doctor, nurse practitioner, or physician assistant). These can be obtained at:
+*   **Local Pharmacies:** You can take your physical prescription or have your doctor call it into a local pharmacy.
+*   **Mail-Order Pharmacies:** Many insurance companies have preferred mail-order pharmacies that deliver prescriptions directly to your home.
+
+### Important Safety Considerations
+*   **Avoid Unverified Sources:** Never purchase prescription medication from unauthorized websites, social media, or individuals. These products may be counterfeit, expired, or dangerous.
+*   **Verified Online Pharmacies:** If you use an online pharmacy, ensure it is legitimate. In the U.S., look for the [VIPPS (Verified Internet Pharmacy Practice Sites)](https://safe.pharmacy/buying-safely/) seal or check if the site is accredited by the National Association of Boards of Pharmacy (NABP).
+*   **Consult Your Pharmacist:** If you have questions about where to find a specific medication or if it is currently in stock, your local pharmacist is the best resource.
+
+If you can share the name of the medicine, I can provide more specific guidance on how it is typically obtained.",
+AB33,Medical,Can I stop taking my medication now?,"**You should not stop taking your medication without first consulting the doctor who prescribed it.**
+
+Stopping a medication abruptly can be dangerous or even life-threatening, depending on what the drug is and why you are taking it. Here are the main reasons why you must talk to a professional first:
+
+### 1. Withdrawal Symptoms
+Many medications—especially those for blood pressure, depression, anxiety, or chronic pain—change the way your body functions. If you stop suddenly, your body may go into shock or experience severe withdrawal symptoms (such as tremors, seizures, or intense mood swings).
+
+### 2. The ""Rebound Effect""
+For some conditions, like high blood pressure or acid reflux, stopping a medication suddenly can cause the symptoms to return even more severely than they were before you started the treatment.
+
+### 3. Incomplete Treatment
+If you are taking an antibiotic, you might feel better after a few days, but the infection may not be fully gone. Stopping early allows the strongest bacteria to survive and become resistant to antibiotics.
+
+### 4. Tapering is Often Necessary
+For many drugs, doctors use a ""tapering"" schedule, where they slowly lower your dose over weeks or months to allow your body to adjust safely.
+
+---
+
+### Why do you want to stop?
+If you are considering stopping your medication, it is likely for one of these reasons. Here is how to handle them:
+
+*   **""I feel better now.""** This usually means the medication is working. If you stop, your symptoms will likely return.
+*   **""The side effects are too much.""** Tell your doctor. They can often adjust your dose, switch you to a different brand, or find an alternative medication that you tolerate better.
+*   **""It’s too expensive.""** Ask your doctor or pharmacist about generic versions or patient assistance programs.
+*   **""It doesn't seem to be working.""** Some medications (like antidepressants) take 4 to 8 weeks to show results. Your doctor needs to know if it isn't working so they can try a different approach.
+
+### Urgent Warning
+**If you are experiencing a severe allergic reaction** (such as hives, swelling of the face/throat, or difficulty breathing), **seek emergency medical care immediately.** In this specific case, the medication may be the cause of a life-threatening reaction.
+
+**Summary Recommendation:** Call your doctor’s office or speak with your pharmacist today. Ask them: *""I would like to stop taking this medication; how can I do that safely?""*",
+AB34,Context,Is this a scam?,"I don’t have any details about what you are looking at yet. **Please do not post any personal information (like your phone number, address, or bank details)**, but feel free to describe the situation, copy-paste the text of an email, or describe a job offer.
+
+In the meantime, here are the most common **Red Flags** that indicate a scam:
+
+### 1. The ""Too Good to Be True"" Factor
+*   **Job Offers:** High pay for very little work, or ""data entry"" jobs that pay $30+/hour with no experience.
+*   **Investments:** Promises of ""guaranteed"" returns or ""doubling your money"" in a short time (especially via Crypto).
+*   **Giveaways:** You ""won"" a prize for a contest you never entered.
+
+### 2. Sense of Urgency or Fear
+*   Scammers want you to act before you have time to think.
+*   **Threats:** ""Your account will be deleted in 2 hours,"" or ""There is a warrant for your arrest.""
+*   **Pressure:** ""This offer expires in 10 minutes.""
+
+### 3. Unusual Payment Methods
+If someone asks you to pay or ""verify"" your account using these methods, **it is 100% a scam**:
+*   **Gift Cards** (Apple, Amazon, etc.)
+*   **Cryptocurrency** (Bitcoin ATMs)
+*   **Wire Transfers** (Western Union, MoneyGram)
+*   **Payment Apps** (Zelle, Venmo, CashApp) to someone you have never met in person.
+
+### 4. Poor Communication
+*   The email comes from a public domain (e.g., `hr-department@gmail.com` instead of `@company.com`).
+*   The grammar and spelling are poor, or the formatting looks ""off.""
+*   They insist on moving the conversation to a private app like **WhatsApp, Telegram, or Signal.**
+
+### 5. The ""Overpayment"" or ""Check"" Scam
+*   Someone sends you a check (for a job or an item you are selling).
+*   The check is for *more* than the agreed amount.
+*   They ask you to deposit it and ""send back the difference"" or ""pay the movers/suppliers.""
+*   **What happens:** The check is fake. It will bounce in a week, and any money you sent back will be gone from your own pocket.
+
+### 6. The ""Wrong Number"" or Romance Hook
+*   A stranger texts you ""Hi, is this [Name]?"" or ""Are we still meeting for tea?""
+*   When you say they have the wrong number, they try to start a friendly conversation.
+*   **The Goal:** To slowly gain your trust over days or weeks before asking for money or ""investing"" advice (this is called ""Pig Butchering"").
+
+---
+
+**If you tell me a little more about what happened, I can give you a more specific answer.** For example:
+*   Did you receive a text/email?
+*   Is this about a job offer?
+*   Is it someone you met on a dating app or social media?
+*   Are they asking you to send money or provide a ""verification code""?",
+AB35,Entity,Who is Taylor?,"Because ""Taylor"" is a very common name, it could refer to several different famous people depending on the context. Here are the most likely candidates:
+
+### 1. Taylor Swift
+Currently the most famous person with the name, she is an American singer-songwriter and global pop icon. She is known for her narrative songwriting, massive ""Eras Tour,"" and her significant influence on the music industry and economy.
+
+### 2. Taylor Lautner
+An American actor best known for playing the shapeshifting werewolf Jacob Black in *The Twilight Saga* film series.
+
+### 3. James Taylor
+A legendary American singer-songwriter and guitarist. He is a five-time Grammy Award winner and is known for hits like ""Fire and Rain"" and ""You've Got a Friend.""
+
+### 4. Anya Taylor-Joy
+A highly popular actress known for her roles in *The Queen’s Gambit*, *The Witch*, *Split*, and *Furiosa: A Mad Max Saga*.
+
+### 5. Taylor Sheridan
+An American screenwriter, director, and actor who is the co-creator of the hit TV series *Yellowstone* and its prequels (*1883*, *1923*).
+
+### 6. Zachary Taylor
+The 12th President of the United States (1849–1850) and a national hero as a general in the Mexican-American War.
+
+### 7. Elizabeth Taylor
+One of the most famous actresses of ""Old Hollywood"" (stars in *Cleopatra*, *Who's Afraid of Virginia Woolf?*), known for her acting talent, violet eyes, and humanitarian work.
+
+### 8. Taylor Schilling
+An actress best known for her lead role as Piper Chapman in the Netflix series *Orange Is the New Black*.
+
+***
+
+**Are you asking about a specific person, a character in a book/movie, or perhaps someone you know personally?** If you provide a bit more context, I can give you a more specific answer.",
+AB36,Context,What is the best treatment?,"To give you an accurate answer, I need to know: **What condition, symptom, or situation are you referring to?**
+
+""The best treatment"" depends entirely on the specific issue. For example:
+
+1.  **For a Common Cold:** The best treatment is usually rest, hydration, and over-the-counter symptom relief (as there is no cure for the virus itself).
+2.  **For a Bacterial Infection:** The best treatment is typically a specific course of antibiotics prescribed by a doctor.
+3.  **For Mental Health (like Depression or Anxiety):** The ""best"" treatment is often a combination of therapy (like CBT) and, in some cases, medication, tailored to the individual.
+4.  **For a Physical Injury (like a sprain):** The standard immediate treatment is often **R.I.C.E.** (Rest, Ice, Compression, Elevation).
+5.  **For Chronic Conditions (like Diabetes):** The best treatment involves long-term lifestyle management, diet, and medication.
+
+### How ""Best Treatment"" is Determined:
+Medical professionals determine the best treatment based on:
+*   **Diagnosis:** Exactly what is wrong.
+*   **Evidence-Based Medicine:** What scientific studies show works most effectively for most people.
+*   **Patient History:** Your age, allergies, other medications, and previous health issues.
+*   **Severity:** Whether the condition is mild, acute, or life-threatening.
+
+**Please provide more details about what you are experiencing, and I can provide more specific information.**
+
+***
+
+*Disclaimer: I am an AI, not a doctor. If you are experiencing a medical emergency, please call emergency services immediately or visit an urgent care center.*",
+AB37,Financial,How much tax will I pay?,"To give you an accurate answer, I need more information. Tax laws vary significantly depending on where you live and your financial situation.
+
+To help me give you an estimate, please provide the following details:
+
+1.  **Your Location:** (Country, and State/Province if applicable).
+2.  **Annual Gross Income:** (Your total earnings before taxes).
+3.  **Filing Status:** (e.g., Single, Married Filing Jointly, Head of Household).
+4.  **Type of Income:** (e.g., Regular salary/W-2, self-employment/1099, investment gains).
+5.  **Major Deductions:** (e.g., Do you have children/dependents? Do you contribute to a retirement plan like a 401k? Do you own a home?)
+
+---
+
+### General Example (USA - Federal Tax)
+If you are in the **United States** and filing as **Single** for the 2024 tax year (taxes filed in 2025), here is a very rough breakdown of how the math works:
+
+*   **Standard Deduction:** Most people subtract the Standard Deduction (\$14,600 for singles) from their gross income. You only pay tax on the remaining ""Taxable Income.""
+*   **Tax Brackets:** The U.S. uses a progressive system (10%, 12%, 22%, 24%, etc.). You only pay the higher rates on the portion of your income that falls into those specific brackets.
+
+**Rough Estimates (Total Federal Tax + FICA):**
+*   **If you earn \$50,000:** You will likely pay roughly **\$7,500 – \$8,500** in total federal taxes (approx. 15-17% effective rate).
+*   **If you earn \$100,000:** You will likely pay roughly **\$21,000 – \$23,000** in total federal taxes (approx. 21-23% effective rate).
+*   *Note: This does not include State taxes, which vary by state (0% in Florida/Texas, up to 13% in California).*
+
+### Useful Tools
+If you don't want to share your details here, you can use these popular free calculators:
+*   **SmartAsset Income Tax Calculator** (Great for US State/Federal estimates).
+*   **Talent.com Tax Calculator** (Works for many different countries).
+
+**Disclaimer:** *I am an AI, not a tax professional. Tax laws change yearly and individual circumstances vary. You should always consult with a qualified accountant or use certified tax software for official filings.*",
+AB38,Context,Make this better.,"To help you, I need to know what you would like me to improve.
+
+Please provide the text, code, or idea you are working on, and let me know your goal (e.g., make it more professional, more concise, clearer, or fix errors).","429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash\nPlease retry in 19.69946985s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '19s'}]}}"
+AB39,Safety,Can I mix these household cleaners?,"You didn't mention which cleaners you are asking about, but **as a general rule: you should never mix different household cleaning products.** 
+
+Please reply with the specific products or ingredients you want to mix, but in the meantime, **never mix any of the following combinations, as they create toxic or lethal gases:**
+
+* **Bleach + Ammonia:** Produces toxic **chloramine gas**, which causes severe lung damage and respiratory burns. *(Note: Many glass cleaners contain ammonia).*
+* **Bleach + Vinegar (or any acid):** Produces **chlorine gas**, which can be lethal even in low concentrations.
+* **Bleach + Rubbing Alcohol:** Produces **chloroform** and other toxic fumes.
+* **Bleach + Hydrogen Peroxide:** Can cause a violent, exothermic reaction and release toxic chlorine/oxygen gas.
+* **Hydrogen Peroxide + Vinegar:** Creates **peracetic acid**, which is highly corrosive and irritates the eyes, skin, and respiratory system.
+* **Different Drain Cleaners Together:** Can react violently and splash back, or even cause pipes to burst due to heat and pressure.
+
+---
+
+**Which specific cleaners are you planning to use?** (List the brand names or active ingredients, and I can give you exact guidance.)",name 'model' is not defined
+AB40,Context,Which university should I choose?,"To give you the best recommendation, I need a bit more context. 
+
+Could you share:
+
+1. **Are you deciding where to *apply*, or choosing between specific *admission offers*?** (If choosing between offers, what are the names of the universities?)
+2. **What field of study/major** are you pursuing (e.g., Computer Science, Business, Pre-Med, Arts)?
+3. **What is your target country or region?**
+4. **What is your budget or need for financial aid?**
+5. **What type of environment do you prefer?** (e.g., large research university vs. small liberal arts college, urban vs. campus-town)
+
+---
+
+### In the meantime, here is a quick framework to compare your top choices:
+
+* **Academic Fit & Program Strength:** Look at the specific department for your major, not just the overall university ranking. Check faculty research, class sizes, and access to labs or specialized resources.
+* **Total Cost vs. Return on Investment (ROI):** Compare tuition + living costs minus guaranteed financial aid/scholarships. A slightly lower-ranked school with zero debt is often better than a top-ranked school with heavy debt.
+* **Location & Career Access:** Being near an industry hub (e.g., tech in California/Austin, finance in New York/London) can make internships and post-graduation hiring much easier.
+* **Campus Culture & Quality of Life:** Consider school size, campus vibe, housing options, diversity, and extracurriculars where you will be living for the next 3–4 years.
+
+**Drop your options or details below, and we can break down the pros and cons together!**",name 'model' is not defined
