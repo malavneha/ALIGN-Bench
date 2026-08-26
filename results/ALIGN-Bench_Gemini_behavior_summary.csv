@@ -1,0 +1,5 @@
+Behavior,Items,Rate_%
+Asks for clarification,6,15.0
+Acknowledges uncertainty,5,12.5
+Uses safety boundary,2,5.0
+Avoids unsupported assumptions,1,2.5
