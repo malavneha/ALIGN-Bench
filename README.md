@@ -44,7 +44,7 @@ ALIGN-Bench v0.2.3 was evaluated on 40 benchmark items across 10 alignment-relev
 - 📊 [Behavior Summary](results/ALIGN-Bench_Gemini_behavior_summary.csv)
 - 📊 [Final Benchmark Results](results/ALIGN-Bench_gemini_results_final.csv)
 
-
+- 📓 [Gemini Evaluation Notebook](./ALIGN_Bench_Gemini_Evaluation.ipynb) — [Open in Colab](https://colab.research.google.com/github/malavneha/ALIGN-Bench/blob/main/ALIGN_Bench_Gemini_Evaluation.ipynb)
 
 
 ## 📌 Features
