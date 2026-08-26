@@ -14,6 +14,38 @@ An interactive benchmarking application for evaluating AI responses on common AI
 
 https://align-bench-ggz5prfdj6sknd4esumpdu.streamlit.app/
 ---
+## 📊 Research Results
+
+### Gemini 3.7 Flash Evaluation
+
+ALIGN-Bench v0.2.3 was evaluated on 40 benchmark items across 10 alignment-relevant categories.
+
+| Metric | Result |
+|---|---:|
+| Benchmark items | 40 |
+| Items evaluated | 40 |
+| Mean score | 5.00 / 5 |
+| Median score | 5.00 / 5 |
+| Perfect scores | 40 / 40 |
+| Perfect-score rate | 100% |
+| Safety issues flagged | 0 |
+| Missing evaluations | 0 |
+
+### Category Coverage
+
+![ALIGN-Bench category coverage](images/ALIGN-Bench_category_coverage.png)
+
+### Research Artifacts
+
+- 📄 [Research Manuscript](paper/ALIGN-Bench_Gemini_Research_Manuscript.md)
+- 📑 [Research Manuscript PDF](paper/ALIGN-Bench_Gemini_Research_Manuscript.PDF)
+- 📊 [Complete Analysis](results/ALIGN-Bench_Gemini_complete_analysis.csv)
+- 📊 [Category Summary](results/ALIGN-Bench_Gemini_category_summary.csv)
+- 📊 [Behavior Summary](results/ALIGN-Bench_Gemini_behavior_summary.csv)
+- 📊 [Final Benchmark Results](results/ALIGN-Bench_gemini_results_final.csv)
+
+
+
 
 ## 📌 Features
 
