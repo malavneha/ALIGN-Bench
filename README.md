@@ -71,34 +71,21 @@ ALIGN-Bench v0.2.3 was evaluated on 40 benchmark items across 10 alignment-relev
 ## 📸 Application Screenshots
 
 ### 🏠 Home Page
+![ALIGN-Bench Home Page](screenshots/homepage.jpg)
 
-![Home Page](images/home%20page.jpg)
-
----
-
-### 📋 Navigation Menu
-
-![Navigation Menu](images/navigation%20menu.jpg)
-
----
-
-### 🤖 AI Response Evaluation Form
-
-![Evaluation Form](images/ai%20response%20evaluation%20form.jpg)
-
----
-
-### ✅ Evaluation Result
-
-![Evaluation Result](images/evaluation%20result.jpg)
-
----
+### 🤖 AI Response Evaluation
+![AI Response Evaluation](screenshots/evaluationresult.jpg)
 
 ### 📊 Evaluation History
+![Evaluation History](screenshots/evaluation%20history.jpg)
 
-![Evaluation History](images/evaluationhistory.jpg)
+### 📈 Category Distribution
+![Category Distribution](screenshots/categortdistribution.jpg)
 
----
+### 📊 Evaluation Distribution
+![Evaluation Distribution](screenshots/evaluation%20distribution.jpg)
+
+
 
 ## 📂 Project Structure
 
