@@ -142,7 +142,7 @@ elif page == "📝 Evaluate":
     ].iloc[0]
 
     st.info(
-        f"🎯 Expected Behaviour: {row['ideal_behavior']}"
+        f"🎯 Expected Behaviour: {row['gold_behavior']}"
     )
 
     response = st.text_area(
