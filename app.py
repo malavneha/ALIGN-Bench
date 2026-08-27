@@ -134,11 +134,11 @@ elif page == "📝 Evaluate":
 
     question = st.selectbox(
         "Benchmark Question",
-        filtered["question"]
+        filtered["prompts"]
     )
 
     row = filtered[
-        filtered["question"] == question
+        filtered["prompts"] == question
     ].iloc[0]
 
     st.info(
